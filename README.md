@@ -1,4 +1,4 @@
 fremantleGuice
 ==============
 
-Simple Google Guice to support handover presentation 
+Simple Google Guice example to support handover presentation
