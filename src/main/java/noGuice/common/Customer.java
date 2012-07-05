@@ -4,7 +4,7 @@ public class Customer {
     private Notifier notifier;
 
     public Customer() {
-        this.notifier = new SendMail();
+        notifier = new SendMail();
     }
 
     public void changeSomething() {
